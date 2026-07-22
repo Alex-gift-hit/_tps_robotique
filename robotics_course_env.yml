@@ -7,7 +7,7 @@ dependencies:
   - numpy
   - pinocchio
   - meshcat-python
-  - example-robot-data
+  - example-robot-data==4.0.7
   - jupyterlab
   - ipywidgets
   - matplotlib
